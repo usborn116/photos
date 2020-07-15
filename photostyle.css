@@ -18,8 +18,8 @@ table{
 }
 img{
 	display: inline-block;
-	width: auto;
-	height: 700px;
+	width: 100%;
+	height: auto;
 	transition-property:opacity .5s;
 }
 img:hover{
